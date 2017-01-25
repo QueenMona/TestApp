@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://www.phonegap.com/ns/1.0" id="com.abc.MonikaTest" version="1.0">
+<name>Test App</name>
+<description>Test app using phonegap</description>
+<author href="http://www.w3schools.com" email="monikakj23@gmail.com">
+Monika
+</author>
+<preferences name="permissions" value="none" />
+
+</widget>
